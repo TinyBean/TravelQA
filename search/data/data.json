@@ -1,0 +1,191 @@
+{"grade": "国家AAAA级旅游区", "subj": "八大处公园", "po": [{"pred": "name", "obj": "八大处公园"}, {"pred": "built", "obj": "隋末唐初"}], "location": "北京市西郊西山风景区南麓"}
+{"subj": "八角寨", "po": [{"pred": "nickname", "obj": "云台山"}]}
+{"subj": "白草畔", "po": [{"pred": "name", "obj": "白草畔"}], "location": "北京"}
+{"subj": "北宫国家森林公园", "po": [{"pred": "area", "obj": "914.5公顷"}, {"pred": "name", "obj": "北宫国家森林公园"}, {"pred": "case", "obj": "山合欢、旱榆、火炬树"}], "location": "北京市丰台区"}
+{"grade": "国家AAAA级", "subj": "北海公园", "po": [{"pred": "englishname", "obj": "Beihai Park"}, {"pred": "name", "obj": "北海公园"}], "location": "北京市中心区"}
+{"subj": "北京动物园", "po": [{"pred": "built", "obj": "1906年"}, {"pred": "case", "obj": "450余种，海洋馆500余种"}, {"pred": "area", "obj": "86公顷"}, {"pred": "englishname", "obj": "Beijing Zoo"}, {"pred": "name", "obj": "北京动物园"}, {"pred": "collect", "obj": "大量难得一见的国内外珍稀动物"}, {"pred": "type", "obj": "动物园"}, {"pred": "form", "obj": "事业"}, {"pred": "scale", "obj": "中国第一大动物园"}], "location": "北京市西城区西直门外大街137号"}
+{"subj": "北京故宫博物院", "po": [{"pred": "built", "obj": "1925年10月10日"}, {"pred": "englishname", "obj": "the Palace Museum"}, {"pred": "name", "obj": "北京故宫博物院"}, {"pred": "type", "obj": "综合性博物馆"}], "location": "中国北京"}
+{"subj": "北京欢乐谷", "po": [{"pred": "built", "obj": "2006年7月"}, {"pred": "area", "obj": "56万平方米"}, {"pred": "englishname", "obj": "Happy Valley of Beijing"}, {"pred": "name", "obj": "北京欢乐谷"}, {"pred": "ecase", "obj": "极速飞车、太阳神车、水晶神翼等"}, {"pred": "type", "obj": "游乐园"}], "location": "北京市朝阳区东四环四方桥东南角"}
+{"subj": "北京首云铁矿", "po": [{"pred": "work", "obj": "1114人（2009年）"}, {"pred": "built", "obj": "1959年"}, {"pred": "mlocation", "obj": "北京"}, {"pred": "form", "obj": "国有"}, {"pred": "name", "obj": "首云矿业股份有限公司"}, {"pred": "product", "obj": "铁精粉"}]}
+{"grade": "AAAA级旅游景区", "subj": "北京植物园", "po": [{"pred": "case", "obj": "10000余种（含品种）150余万株"}, {"pred": "built", "obj": "1956年"}, {"pred": "area", "obj": "400公顷"}, {"pred": "englishname", "obj": "Beijing Botanical Garden"}, {"pred": "name", "obj": "北京植物园"}, {"pred": "wtime", "obj": "夏：6:00 -- 20:00 冬：7:30 -- 17:00"}, {"pred": "type", "obj": "自然展览馆"}], "location": "北京市海淀区"}
+{"subj": "被遗弃的秘密", "po": [], "location": "横店影视城"}
+{"subj": "伯远帖", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "不咸山", "po": [{"pred": "nickname", "obj": "长白山"}]}
+{"subj": "藏心术", "po": [], "location": "横店影视城"}
+{"grade": "国家5A级旅游景区", "subj": "承德避暑山庄", "po": [{"pred": "name", "obj": "承德避暑山庄"}, {"pred": "type", "obj": "河北省承德市北部"}, {"pred": "built", "obj": "一七零三年"}], "location": "河北省承德市北部"}
+{"subj": "传宋李唐文姬归汉图", "po": [{"pred": "collect", "obj": "故宫"}]}
+{"subj": "春帖子词", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "大葆台西汉墓", "po": [{"pred": "near", "obj": "世界公园"}]}
+{"subj": "刁蛮俏御医", "po": [], "location": "横店影视城"}
+{"subj": "东方明珠广播电视塔", "po": [{"pred": "area", "obj": "1500平方米"}, {"pred": "englishname", "obj": "The Oriental Pearl TV Tower Of Shanghai"}, {"pred": "name", "obj": "东方明珠广播电视塔"}, {"pred": "名人", "obj": "设计师江欢成"}], "location": "中国上海"}
+{"subj": "都江堰", "po": [{"pred": "englishname", "obj": "Dujiang yan"}, {"pred": "name", "obj": "都江堰"}, {"pred": "built", "obj": "公元前256年"}, {"pred": "建造人物", "obj": "李冰父子"}], "location": "四川省成都市都江堰市灌口镇"}
+{"subj": "奉化", "po": [{"pred": "englishname", "obj": "FengHua"}, {"pred": "气候条件", "obj": "北亚热带季风气候区"}, {"pred": "人口", "obj": "常住人口48.35万（2010年）"}, {"pred": "name", "obj": "奉化"}, {"pred": "火车站", "obj": "奉化火车站"}, {"pred": "area", "obj": "陆地1268平方公里海域96平方公里"}, {"pred": "type", "obj": "市辖县(县级市)"}, {"pred": "名人", "obj": "王羲之、蒋介石、蔡启元等"}, {"pred": "方言", "obj": "吴语宁波话"}, {"pred": "车牌代码", "obj": "浙B"}], "location": "浙东"}
+{"subj": "佛道茶艺", "po": [], "location": "五台山"}
+{"subj": "浮丘山", "po": [{"pred": "别称", "obj": "南山"}]}
+{"grade": "AAAAA", "subj": "鼓浪屿", "po": [{"pred": "englishname", "obj": "Kulangsu"}, {"pred": "name", "obj": "鼓浪屿"}, {"pred": "门票价格", "obj": "免费"}, {"pred": "wtime", "obj": "全天开放"}], "location": "福建省厦门岛西南隅"}
+{"grade": "AAAAA", "subj": "故宫", "po": [{"pred": "built", "obj": "1395年"}, {"pred": "englishname", "obj": "Nanjing Ming Palace Ruins Park"}, {"pred": "name", "obj": "北京故宫博物院"}, {"pred": "name", "obj": "南京明故宫遗址公园"}, {"pred": "collect", "obj": "清明上河图，金瓯永固杯，平复帖"}, {"pred": "wtime", "obj": "全天"}, {"pred": "门票价格", "obj": "旺季60元，淡季40元"}, {"pred": "wtime", "obj": "旺季8:30-16:10; 淡季8:30-15:40"}, {"pred": "type", "obj": "遗址公园"}], "location": "南京市玄武区中山东路311号"}
+{"subj": "故宫博物院", "po": [{"pred": "built", "obj": "1925年10月10日"}, {"pred": "藏品数量", "obj": "60万件"}, {"pred": "englishname", "obj": "Taipei's National Palace Museum"}, {"pred": "name", "obj": "北京故宫博物院"}, {"pred": "collect", "obj": "散氏盘、快雪时晴帖等"}, {"pred": "name", "obj": "台北故宫博物院"}, {"pred": "type", "obj": "综合性博物馆"}], "location": "台湾台北士林区外双溪"}
+{"subj": "官式古建筑营造技艺", "po": [{"pred": "申报单位", "obj": "故宫博物院"}]}
+{"subj": "光熙峰", "po": [], "location": "普陀山"}
+{"subj": "桂林漓江风景区", "po": [{"pred": "type", "obj": "风景区"}, {"pred": "机场", "obj": "桂林机场"}, {"pred": "name", "obj": "桂林漓江风景区"}]}
+{"subj": "郭沫若行书七言自作诗", "po": [{"pred": "collect", "obj": "故宫"}]}
+{"subj": "国家森林公园", "po": [{"pred": "最早森林公园", "obj": "张家界国家森林公园"}]}
+{"subj": "国子监", "po": [{"pred": "englishname", "obj": "Imperial Academy"}, {"pred": "type", "obj": "北京、南京"}, {"pred": "built", "obj": "公元1306年"}, {"pred": "name", "obj": "国子监"}, {"pred": "nickname", "obj": "中央官学"}], "location": "中国华北、中国华东"}
+{"subj": "海棠社", "po": [{"pred": "mlocation", "obj": "大观园"}]}
+{"subj": "海棠诗社", "po": [{"pred": "mlocation", "obj": "大观园"}]}
+{"subj": "何贤公园", "po": [{"pred": "nickname", "obj": "香山公园"}]}
+{"subj": "横店影视城", "po": [{"pred": "built", "obj": "1996年"}, {"pred": "name", "obj": "横店影视城"}, {"pred": "经营理念", "obj": "影视为表、旅游为里，文化为魂"}, {"pred": "下辖地区", "obj": "浙江东阳市"}], "location": "浙江中部东阳市境内"}
+{"subj": "华山", "po": [{"pred": "englishname", "obj": "Mount Hua"}, {"pred": "type", "obj": "国家级风景名胜区"}, {"pred": "name", "obj": "华山"}], "location": "陕西省渭南华阴市"}
+{"subj": "化城寺", "po": [], "location": "九华山"}
+{"subj": "画云台山记", "po": [{"pred": "name", "obj": "云台山"}]}
+{"subj": "欢乐谷", "po": [{"pred": "name", "obj": "北京欢乐谷"}]}
+{"grade": "国家AAAAA级景区", "subj": "皇城相府", "po": [{"pred": "wtime", "obj": "2011年2月22日"}, {"pred": "area", "obj": "3.6万平方米"}, {"pred": "气候条件", "obj": "半干旱大陆性季风气候"}, {"pred": "name", "obj": "皇城相府"}, {"pred": "type", "obj": "山西省东南部"}, {"pred": "nickname", "obj": "午亭山村"}], "location": "中国西北"}
+{"subj": "黄帝问道广成子", "po": [], "location": "崆峒山"}
+{"subj": "黄果树瀑布", "po": [{"pred": "实际高度", "obj": "高77.8米，宽101米"}, {"pred": "name", "obj": "黄果树瀑布"}, {"pred": "所属地形", "obj": "喀斯特地形地区"}, {"pred": "当地特产", "obj": "蜡染，刺绣，黄果"}, {"pred": "瀑布类型", "obj": "侵蚀裂典型瀑布"}, {"pred": "主要景区", "obj": "天然盆景区，天星洞，水上石林区"}]}
+{"subj": "黄鹤楼", "po": [{"pred": "wtime", "obj": "1985年6月重建开放"}, {"pred": "englishname", "obj": "Yellow Crane Tower"}, {"pred": "type", "obj": "古楼"}, {"pred": "name", "obj": "黄鹤楼"}, {"pred": "built", "obj": "始建于三国时期，1981年重建"}, {"pred": "誉称", "obj": "“天下江山第一楼”"}], "location": "湖北武汉蛇山"}
+{"subj": "黄山", "po": [{"pred": "电话区号", "obj": "559"}, {"pred": "邮政编码", "obj": "242700"}, {"pred": "邮政区码", "obj": "245000"}, {"pred": "行政区划代码", "obj": "341000"}, {"pred": "人口", "obj": "135.90万（2010年）"}, {"pred": "下辖地区", "obj": "3个市辖区、4个县和黄山风景区"}, {"pred": "area", "obj": "9807平方千米"}, {"pred": "nickname", "obj": "coser黄山"}, {"pred": "englishname", "obj": "Huangshan"}, {"pred": "经纬度", "obj": "北纬30.18°、东经118.14°"}, {"pred": "type", "obj": "地级市"}, {"pred": "name", "obj": "黄山"}, {"pred": "市树市花市鸟", "obj": "黄山松，黄山杜鹃，红嘴相思鸟"}, {"pred": "机场", "obj": "黄山屯溪机场"}, {"pred": "火车站", "obj": "黄山站"}, {"pred": "方言", "obj": "徽语，又称“徽州话”"}, {"pred": "nickname", "obj": "徽州"}, {"pred": "友好城市", "obj": "丽江，张家界，开普敦、因特拉肯"}, {"pred": "景区四绝", "obj": "奇松，怪石，云海，温泉"}, {"pred": "政府驻地", "obj": "屯溪区天都大道"}, {"pred": "车牌代码", "obj": "皖J"}, {"pred": "气候条件", "obj": "温暖湿润、典型的江南气候"}, {"pred": "荣誉", "obj": "中国公众最向往的旅游城市"}], "location": "中国华东，安徽省境内"}
+{"subj": "黄山温泉", "po": [], "location": "黄山"}
+{"subj": "汇泉公园", "po": [{"pred": "nickname", "obj": "中山公园"}]}
+{"subj": "火线追凶", "po": [], "location": "横店影视城"}
+{"subj": "鸡冠洞", "po": [{"pred": "海拔", "obj": "1021米"}, {"pred": "深度", "obj": "5600米"}, {"pred": "拼音", "obj": "jian guan dong"}, {"pred": "name", "obj": "鸡冠洞"}, {"pred": "特点", "obj": "山势雄伟，孤峰卓立"}], "location": "河南洛阳栾川县城西3公里"}
+{"subj": "嘉峪关", "po": [{"pred": "电话区号", "obj": "937"}, {"pred": "行政区划代码", "obj": "620200"}, {"pred": "邮政区码", "obj": "735100"}, {"pred": "人口", "obj": "23万（2010年）"}, {"pred": "area", "obj": "2935平方千米"}, {"pred": "englishname", "obj": "Jiayuguan City"}, {"pred": "type", "obj": "地级市"}, {"pred": "车牌代码", "obj": "甘B"}, {"pred": "name", "obj": "嘉峪关"}, {"pred": "机场", "obj": "嘉峪关机场"}, {"pred": "name", "obj": "嘉峪关市"}, {"pred": "火车站", "obj": "嘉峪关站"}, {"pred": "方言", "obj": "酒泉话、东北方言"}, {"pred": "built", "obj": "明洪武五年（公元1372年）"}, {"pred": "别称", "obj": "天下第一雄关"}, {"pred": "气候条件", "obj": "温带大陆性荒漠气候"}, {"pred": "下辖地区", "obj": "峪泉镇、文殊镇、新城镇"}], "location": "中国西北"}
+{"subj": "鲒埼亭", "po": [], "location": "奉化"}
+{"grade": "国家AAAA级", "subj": "京东大溶洞", "po": [{"pred": "area", "obj": "20平方公里"}, {"pred": "门票", "obj": "65元（学生及老人33元）"}, {"pred": "wtime", "obj": "8：00——18：30"}, {"pred": "name", "obj": "京东大溶洞"}], "location": "中国北京"}
+{"subj": "井冈山", "po": [{"pred": "englishname", "obj": "Jinggangshan"}, {"pred": "name", "obj": "井冈山"}, {"pred": "最高海拔", "obj": "南风屏海拔2120米"}], "location": "江西省西南部"}
+{"subj": "镜泊湖", "po": [{"pred": "area", "obj": "90平方公里"}, {"pred": "englishname", "obj": "Jingpohu"}, {"pred": "name", "obj": "镜泊湖"}, {"pred": "交通", "obj": "牡丹江海浪机场"}, {"pred": "特产", "obj": "响水大米（国宴用米）、湖鲫"}], "location": "牡丹江市东南部"}
+{"subj": "镜泊湖毛公山", "po": [], "location": "镜泊湖"}
+{"subj": "究竟定：清宫藏密瑜伽修行宝典", "po": [{"pred": "作者", "obj": "故宫博物院"}]}
+{"subj": "九华山茶", "po": [{"pred": "产地", "obj": "九华山"}]}
+{"subj": "九华山肉身菩萨", "po": [], "location": "九华山"}
+{"grade": "国家AAAAA级旅游景区", "subj": "九寨沟", "po": [{"pred": "电话区号", "obj": "837"}, {"pred": "area", "obj": "62k㎡"}, {"pred": "englishname", "obj": "Jiuzhaigou"}, {"pred": "车牌代码", "obj": "川U"}, {"pred": "特色", "obj": "翠海、叠海、彩林、雪山、藏情"}, {"pred": "name", "obj": "九寨沟"}]}
+{"subj": "九寨沟县", "po": [{"pred": "name", "obj": "九寨沟"}]}
+{"subj": "酒泉钢铁（集团）有限责任公司", "po": [{"pred": "mlocation", "obj": "嘉峪关"}]}
+{"subj": "居庸关长城", "po": [{"pred": "距北京市", "obj": "60千米"}, {"pred": "荣誉", "obj": "国家AAAA级景区"}, {"pred": "name", "obj": "居庸关长城"}], "location": "昌平县城以北20千米的峡谷中"}
+{"subj": "捐献大家孙瀛州", "po": [{"pred": "作者", "obj": "故宫博物院"}]}
+{"subj": "君山岛", "po": [{"pred": "area", "obj": "0.96平方公里"}, {"pred": "平均海拔", "obj": "55m"}, {"pred": "name", "obj": "君山岛"}, {"pred": "古称", "obj": "有缘山"}]}
+{"subj": "喀纳斯湖", "po": [{"pred": "平均水深", "obj": "120米"}, {"pred": "area", "obj": "45.73平方公里"}, {"pred": "蓄水量", "obj": "53.8亿立方米"}, {"pred": "荣誉称号", "obj": "国家5A级旅游景区"}, {"pred": "name", "obj": "喀纳斯湖"}, {"pred": "机场", "obj": "喀纳斯机场"}], "location": "新疆阿勒泰布尔津县"}
+{"subj": "康西草原", "po": [{"pred": "name", "obj": "康西草原"}, {"pred": "area", "obj": "三万多亩"}], "location": "延庆县康庄镇八达岭长城西侧"}
+{"subj": "康小伟", "po": [{"pred": "毕业院校", "obj": "横店影视城"}]}
+{"subj": "康晓飞", "po": [{"pred": "经纪公司", "obj": "横店影视城"}]}
+{"subj": "崆峒镇", "po": [{"pred": "名胜", "obj": "崆峒山"}]}
+{"subj": "匡裕", "po": [{"pred": "出生地", "obj": "庐山"}]}
+{"subj": "榔梅", "po": [{"pred": "分布区域", "obj": "武当山"}]}
+{"subj": "崂山", "po": [{"pred": "englishname", "obj": "Mount Laoshan"}, {"pred": "name", "obj": "崂山"}]}
+{"subj": "崂山刻石", "po": [{"pred": "又名", "obj": "崂山"}]}
+{"subj": "老虎滩", "po": [{"pred": "nickname", "obj": "老虎滩海洋公园"}]}
+{"subj": "乐山大佛景区", "po": [{"pred": "世界遗产", "obj": "1996年12月"}, {"pred": "englishname", "obj": "The Leshan Giant Buddha"}, {"pred": "name", "obj": "乐山大佛"}], "location": "四川省乐山市中区凌云山"}
+{"subj": "李霖灿", "po": [{"pred": "职业", "obj": "故宫博物院"}]}
+{"subj": "丽江古城", "po": [{"pred": "电话区号", "obj": "888"}, {"pred": "邮政区码", "obj": "674100"}, {"pred": "englishname", "obj": "The Old Town of Lijiang"}, {"pred": "nickname", "obj": "大研古城"}, {"pred": "name", "obj": "丽江古城"}, {"pred": "火车站", "obj": "丽江火车站"}, {"pred": "机场", "obj": "丽江机场"}], "location": "云南省"}
+{"subj": "丽江我行我宿客栈", "po": [{"pred": "mlocation", "obj": "丽江古城"}]}
+{"subj": "练霓裳", "po": [{"pred": "出生地", "obj": "华山"}]}
+{"grade": "5A级景区", "subj": "灵山大佛", "po": [{"pred": "area", "obj": "30公顷"}, {"pred": "佛体", "obj": "79m"}, {"pred": "高", "obj": "88m"}, {"pred": "莲花瓣", "obj": "9m"}, {"pred": "name", "obj": "灵山大佛"}, {"pred": "nickname", "obj": "小灵山"}], "location": "江苏省无锡市滨湖区马山灵山路"}
+{"subj": "灵隐景区", "po": [{"pred": "周边景区", "obj": "西湖"}]}
+{"subj": "刘公岛", "po": [{"pred": "海岸线", "obj": "14.95公里"}, {"pred": "area", "obj": "3.15平方公里"}, {"pred": "name", "obj": "刘公岛"}], "location": "威海"}
+{"grade": "国家AAAAA级旅游景区", "subj": "龙宫风景区", "po": [{"pred": "area", "obj": "60平方公里"}, {"pred": "name", "obj": "龙宫"}, {"pred": "大自然奇迹", "obj": "全国最长、最美丽的水溶洞"}, {"pred": "中心景区", "obj": "水、旱溶洞90余个"}, {"pred": "四大景区", "obj": "中心、漩塘、油菜湖、仙人箐"}]}
+{"subj": "龙虎山", "po": [{"pred": "电话区号", "obj": "701"}, {"pred": "邮政区码", "obj": "335402"}, {"pred": "人口", "obj": "120万"}, {"pred": "area", "obj": "220平方公里"}, {"pred": "name", "obj": "龙虎山"}, {"pred": "下辖地区", "obj": "鹰潭市"}], "location": "中国 江西省"}
+{"subj": "龙虎宗", "po": [{"pred": "name", "obj": "龙虎山"}]}
+{"subj": "庐山", "po": [{"pred": "englishname", "obj": "Mount. Lu"}, {"pred": "荣誉", "obj": "列入《世界遗产名录》"}, {"pred": "name", "obj": "庐山国家公园"}], "location": "江西省九江市"}
+{"subj": "庐山神仙会", "po": [], "location": "庐山"}
+{"subj": "鹿鼎记", "po": [{"pred": "导演", "obj": "华山"}]}
+{"subj": "蟒山国家森林公园", "po": [{"pred": "森林覆盖率", "obj": "86.50%"}, {"pred": "name", "obj": "蟒山国家森林公园"}, {"pred": "类型", "obj": "森林公园"}], "location": "北京市昌平县东北部"}
+{"subj": "梅林归鹤", "po": [], "location": "西湖"}
+{"subj": "明城墙遗址公园", "po": [{"pred": "占地", "obj": "3.3公顷"}, {"pred": "全长", "obj": "40公里"}, {"pred": "name", "obj": "明城墙遗址公园"}, {"pred": "始建", "obj": "明永乐17年"}, {"pred": "名誉", "obj": "全国重点文物保护单位"}]}
+{"subj": "明代丁元公自书诗卷", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "明代建筑", "po": [{"pred": "民间建筑代表", "obj": "苏州园林"}]}
+{"subj": "明沈度楷书敬斋箴页", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "明王宠楷书送陈子龄会试诗", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "明徐渭草书七律诗轴", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"grade": "AAAAA级旅游景区", "subj": "慕田峪长城", "po": [{"pred": "特色小吃", "obj": "虹鳟鱼、金鳟鱼、鲟鱼"}, {"pred": "built", "obj": "明朝"}, {"pred": "name", "obj": "慕田峪长城"}], "location": "北京怀柔"}
+{"subj": "木府", "po": [], "location": "丽江古城"}
+{"grade": "国家4A级风景区", "subj": "南湖", "po": [{"pred": "name", "obj": "南湾湖"}, {"pred": "景区组成", "obj": "南湾湖和南湾国家森林公园组成"}], "location": "距离信阳市西南5公里"}
+{"subj": "南山", "po": [{"pred": "englishname", "obj": "Zhongnan Mountain，Zhongnanshan"}, {"pred": "nickname", "obj": "太乙山、地肺山、"}, {"pred": "name", "obj": "终南山"}], "location": "中国西安长安区"}
+{"subj": "南山文化旅游区", "po": [{"pred": "name", "obj": "南山文化旅游区"}, {"pred": "area", "obj": "五十平方公里"}], "location": "三亚市南山，距市区40公里"}
+{"subj": "南宋陆游怀成都诗卷", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "南宋吴琚行书寿父帖页", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "尼寇", "po": [{"pred": "出生地", "obj": "北京动物园"}]}
+{"subj": "蓬莱阁", "po": [{"pred": "built", "obj": "1061年"}, {"pred": "area", "obj": "32800平方米"}, {"pred": "name", "obj": "蓬莱阁"}, {"pred": "保护等级", "obj": "全国重点文物保护单位"}, {"pred": "nickname", "obj": "人间仙境"}], "location": "中国山东烟台蓬莱市"}
+{"subj": "蓬莱阁诗", "po": [{"pred": "作品出处", "obj": "蓬莱阁"}]}
+{"grade": "国家5A级旅游风景区", "subj": "普陀山", "po": [{"pred": "area", "obj": "13平方公里"}, {"pred": "name", "obj": "普陀山"}], "location": "浙江省"}
+{"subj": "千岛湖", "po": [{"pred": "岛屿", "obj": "1078个"}, {"pred": "水位", "obj": "108米"}, {"pred": "area", "obj": "567.40平方公里"}, {"pred": "name", "obj": "千岛湖"}, {"pred": "nickname", "obj": "新安江水库"}], "location": "中国华南"}
+{"subj": "亲情较量", "po": [{"pred": "导演", "obj": "黄山"}]}
+{"subj": "琴岛之恋", "po": [{"pred": "拍摄地", "obj": "鼓浪屿"}]}
+{"subj": "清笪重光行书拟白乐天放歌行轴", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "清端溪双龙砚", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "清观鹏无量寿佛图", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "清明上河园", "po": [{"pred": "area", "obj": "510亩"}, {"pred": "name", "obj": "清明上河园"}], "location": "中国河南"}
+{"subj": "清玄烨行书初夏登楼临水诗轴", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "清源山", "po": [{"pred": "englishname", "obj": "Qingyuan Mountain"}, {"pred": "nickname", "obj": "闽海蓬莱第一山"}, {"pred": "name", "obj": "清源山"}, {"pred": "area", "obj": "山脉绵延20公里"}], "location": "中国 泉州"}
+{"subj": "清紫檀有束腰带托泥圈椅", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "青海湖", "po": [{"pred": "area", "obj": "4583平方公里"}, {"pred": "蒙古语", "obj": "K&amp;amp;ouml;ke Naγur"}, {"pred": "西班牙语", "obj": "Lago Qinghai"}, {"pred": "藏语 ", "obj": "mtsho-sngon"}, {"pred": "englishname", "obj": "Qinghai Lake"}, {"pred": "name", "obj": "青海湖"}], "location": "中国青海"}
+{"subj": "青天河", "po": [{"pred": "area", "obj": "106平方公里"}, {"pred": "下辖地区", "obj": "焦作市"}, {"pred": "name", "obj": "青天河"}], "location": "中国 河南省"}
+{"subj": "青铜器修复及复制技艺", "po": [{"pred": "申报地区", "obj": "故宫博物院"}]}
+{"subj": "泉州道教", "po": [{"pred": "道教圣地", "obj": "清源山"}]}
+{"subj": "阮墩环碧", "po": [], "location": "西湖"}
+{"subj": "三清山", "po": [{"pred": "海拔高度", "obj": "1819.9米"}, {"pred": "荣誉", "obj": "2008年列入《世界自然遗产》名录"}, {"pred": "englishname", "obj": "Mount Sanqingshan National Park"}, {"pred": "等级", "obj": "国家AAAAA级"}, {"pred": "name", "obj": "三清山国家公园"}], "location": "江西省玉山县与德兴市交界处"}
+{"subj": "沙坡头", "po": [{"pred": "电话区号", "obj": "953"}, {"pred": "邮政区码", "obj": "751700"}, {"pred": "人口", "obj": "36万（2009年）"}, {"pred": "area", "obj": "5922.4平方千米"}, {"pred": "name", "obj": "沙坡头"}, {"pred": "下辖地区", "obj": "镇罗街道、东园街道、柔远街道"}], "location": "中国西北宁夏回族自治区"}
+{"grade": "国家3A级旅游景区", "subj": "上方山国家森林公园", "po": [{"pred": "name", "obj": "上方山国家森林公园"}, {"pred": "景区特色", "obj": "岩溶地貌，佛教源流，生态资源。"}, {"pred": "near", "obj": "云居寺，仙栖洞，十渡风景区"}], "location": "北京市房山区韩村河镇"}
+{"subj": "上海科技馆", "po": [{"pred": "售票时间", "obj": "9:00～15:30"}, {"pred": "wtime", "obj": "9:00～17:00"}, {"pred": "area", "obj": "9.8万平方米"}, {"pred": "type", "obj": "科普教育和休闲旅游"}, {"pred": "name", "obj": "上海科技馆"}, {"pred": "藏品", "obj": "约25万件"}, {"pred": "休馆时间", "obj": "周一（国定假日除外）"}], "location": "上海市浦东新区世纪大道2000号"}
+{"subj": "歙县雄村", "po": [{"pred": "机场", "obj": "黄山"}]}
+{"subj": "神雕侠侣", "po": [{"pred": "导演", "obj": "华山"}]}
+{"subj": "神农架", "po": [{"pred": "电话区号", "obj": "719"}, {"pred": "邮政区码", "obj": "442400"}, {"pred": "area", "obj": "3253平方公里"}, {"pred": "人口", "obj": "80321（2009年）"}, {"pred": "englishname", "obj": "Shennongjia"}, {"pred": "车牌代码", "obj": "鄂"}, {"pred": "nickname", "obj": "华中屋脊"}, {"pred": "type", "obj": "林区，副地级"}, {"pred": "name", "obj": "神农架"}, {"pred": "机场", "obj": "神农架机场（规划）"}, {"pred": "火车站", "obj": "神农架站（规划）"}, {"pred": "政府驻地", "obj": "松柏镇常青路18号"}, {"pred": "下辖地区", "obj": "松柏镇，木鱼镇，宋洛乡"}, {"pred": "方言", "obj": "西南官话-鄂北片、荆宜片"}, {"pred": "气候条件", "obj": "亚热带季风气候"}, {"pred": "区长", "obj": "周森锋"}], "location": "中国华中"}
+{"subj": "神堂峪自然风景区", "po": [{"pred": "area", "obj": "16万平方公里"}, {"pred": "type", "obj": "名胜古迹"}, {"pred": "name", "obj": "神堂峪自然风景区"}], "location": "怀柔县境内"}
+{"grade": "国家AAA景区", "subj": "十渡", "po": [{"pred": "area", "obj": "301平方千米"}, {"pred": "name", "obj": "十渡"}], "location": "中国北京"}
+{"subj": "十界邪神2", "po": [{"pred": "作者", "obj": "南山"}]}
+{"grade": "AAAA级景区", "subj": "石景山游乐园", "po": [{"pred": "建造时间", "obj": "1986年"}, {"pred": "area", "obj": "26.7万平方米"}, {"pred": "name", "obj": "石景山游乐园"}], "location": "中国北京"}
+{"subj": "释净东", "po": [{"pred": "出家地", "obj": "九华山"}]}
+{"subj": "瘦西湖", "po": [{"pred": "area", "obj": "1.68平方公里"}, {"pred": "name", "obj": "瘦西湖"}, {"pred": "下辖地区", "obj": "扬州市"}], "location": "中国江苏省"}
+{"subj": "双松图歌", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "司马台长城", "po": [{"pred": "全长", "obj": "5.4公里"}, {"pred": "name", "obj": "司马台长城"}, {"pred": "特点", "obj": "险、密、奇、巧、全"}], "location": "古北口镇司马台村北"}
+{"subj": "四大名楼", "po": [{"pred": "名楼一", "obj": "黄鹤楼"}, {"pred": "名楼四", "obj": "蓬莱阁"}, {"pred": "名楼二", "obj": "岳阳楼"}]}
+{"subj": "宋米芾拜中岳命作", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "宋亦阳", "po": [{"pred": "出生地", "obj": "嘉峪关"}]}
+{"subj": "苏州园林", "po": [{"pred": "englishname", "obj": "Suzhou Gardens"}, {"pred": "园林名录", "obj": "沧浪亭、狮子林、拙政园、留园等"}, {"pred": "起始时间", "obj": "春秋时期吴国（公元前514年）"}, {"pred": "景区grade", "obj": "国家5A级旅游景区"}, {"pred": "荣誉", "obj": "世界文化遗产，中国十大名胜之一"}, {"pred": "name", "obj": "苏州园林"}, {"pred": "园林性质", "obj": "以私家园林为主"}]}
+{"subj": "泰宁", "po": [{"pred": "电话区号", "obj": "598"}, {"pred": "邮政区码", "obj": "354400"}, {"pred": "人口", "obj": "14.1万人（2011年）"}, {"pred": "area", "obj": "4925平方公里"}, {"pred": "type", "obj": "福建省泰宁县"}, {"pred": "方言", "obj": "闽赣方言邵武话"}, {"pred": "政府驻地", "obj": "杉城镇"}, {"pred": "下辖地区", "obj": "杉城镇、朱口镇、新桥乡"}, {"pred": "name", "obj": "泰宁"}, {"pred": "气候条件", "obj": "中亚热带季风性湿润气候"}], "location": "中国华东"}
+{"subj": "泰山风景区", "po": [{"pred": "name", "obj": "泰山"}]}
+{"subj": "唐柳公权行书兰亭诗卷", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "天堂寨", "po": [{"pred": "area", "obj": "120平方公里"}, {"pred": "特色景观", "obj": "瀑布群，哲人峰，大鲵，古寨遗风"}, {"pred": "name", "obj": "天堂寨"}, {"pred": "景点类型", "obj": "自然景观"}], "location": "皖鄂两省大别山主峰交界处"}
+{"subj": "天下第四行书", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "万里长城", "po": [{"pred": "终点", "obj": "嘉峪关"}]}
+{"subj": "汪士慎墨梅图卷", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "伪满皇宫博物院", "po": [{"pred": "englishname", "obj": "the Puppet Manchurian Palace"}, {"pred": "type", "obj": "历史警示性博物馆"}, {"pred": "name", "obj": "伪满皇宫博物院"}], "location": "长春"}
+{"subj": "温都水城", "po": [{"pred": "area", "obj": "20000㎡"}, {"pred": "属性", "obj": "绿色休闲旅游圣地"}, {"pred": "服务", "obj": "水上娱乐、温泉理疗、观光旅游"}, {"pred": "name", "obj": "温都水城"}]}
+{"subj": "乌鸦岭", "po": [], "location": "武当山"}
+{"subj": "乌镇", "po": [{"pred": "电话区号", "obj": "573"}, {"pred": "邮政区码", "obj": "314501"}, {"pred": "wtime", "obj": "1991年"}, {"pred": "人口", "obj": "5.9万"}, {"pred": "area", "obj": "71.2平方公里"}, {"pred": "englishname", "obj": "Wu zhen ancient town"}, {"pred": "经纬度", "obj": "东经120°54′"}, {"pred": "景区分类", "obj": "古镇村落"}, {"pred": "特产", "obj": "蓝印花布，姑嫂饼，臭豆干、蚕茧"}, {"pred": "nickname", "obj": "乌墩、青墩"}, {"pred": "name", "obj": "乌镇"}, {"pred": "政府驻地", "obj": "乌镇镇凤仙路18号"}, {"pred": "方言", "obj": "吴语（太湖片）"}, {"pred": "气候条件", "obj": "亚热带季风气候"}, {"pred": "车牌代码", "obj": "浙F"}, {"pred": "type", "obj": "镇"}], "location": "中国华东，浙江省北部"}
+{"subj": "五龙宫", "po": [], "location": "武当山"}
+{"subj": "五台山", "po": [{"pred": "电话区号", "obj": "350"}, {"pred": "englishname", "obj": "WU TAI  SHAN"}, {"pred": "type", "obj": "风景区"}, {"pred": "nickname", "obj": "清凉山"}, {"pred": "方言", "obj": "砂河话"}, {"pred": "name", "obj": "五台山"}, {"pred": "机场", "obj": "五台山机场（在建）"}], "location": "山西繁峙县，五台县"}
+{"subj": "五台山佛教建筑群", "po": [{"pred": "name", "obj": "五台山"}]}
+{"subj": "武当", "po": [{"pred": "name", "obj": "武当山"}]}
+{"subj": "武当山", "po": [{"pred": "area", "obj": "312平方千米"}, {"pred": "englishname", "obj": "Wudang Mountains"}, {"pred": "荣誉称号", "obj": "全国文明风景名胜区"}, {"pred": "nickname", "obj": "太和山、谢罗山、参上山"}, {"pred": "name", "obj": "武当山"}], "location": "湖北省西北部"}
+{"subj": "武当山金殿", "po": [], "location": "武当山"}
+{"subj": "武夷山", "po": [{"pred": "area", "obj": "999.75平方公里"}, {"pred": "englishname", "obj": "Mount Wuyi"}, {"pred": "主峰", "obj": "黄岗山海拔2158米，是东南最高峰"}, {"pred": "type", "obj": "世界自然与文化遗产"}, {"pred": "name", "obj": "武夷山"}], "location": "福建西北部、江西东部"}
+{"subj": "熹平石经残石", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "西柏坡", "po": [{"pred": "人口", "obj": "6400"}, {"pred": "area", "obj": "37845亩"}, {"pred": "name", "obj": "西柏坡"}, {"pred": "type", "obj": "乡镇"}], "location": "河北省石家庄市平山县"}
+{"subj": "西部影视城", "po": [{"pred": "name", "obj": "西部影视城"}, {"pred": "荣誉", "obj": "银川市文物保护单位"}], "location": "在银川市城区西北郊无人荒野地带"}
+{"subj": "西海", "po": [{"pred": "name", "obj": "青海湖"}]}
+{"subj": "西津渡", "po": [{"pred": "编剧", "obj": "庐山"}]}
+{"subj": "西涯", "po": [{"pred": "nickname", "obj": "什刹海"}]}
+{"subj": "仙栖洞", "po": [{"pred": "wtime", "obj": "1999年8月"}, {"pred": "已探深度", "obj": "6000余米"}, {"pred": "name", "obj": "仙栖洞"}], "location": "北京市房山区张坊镇东关上村"}
+{"subj": "湘潭韶山旅游区", "po": [{"pred": "特产", "obj": "灯芯糕、紫油姜"}, {"pred": "名人故居", "obj": "齐白石故居、彭德怀故居"}, {"pred": "name", "obj": "湘潭韶山旅游区"}, {"pred": "名胜古迹", "obj": "玄帝宫、玉皇宫、观音宫、观音堂"}], "location": "湖南省"}
+{"subj": "芗他君石柱", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "香菱学诗", "po": [{"pred": "毕业院校", "obj": "大观园"}]}
+{"subj": "呀诺达雨林文化旅游区", "po": [{"pred": "area", "obj": "45平方公里"}, {"pred": "name", "obj": "呀诺达雨林文化旅游区"}, {"pred": "景观区域", "obj": "雨林谷和梦幻谷"}], "location": "海榆中线三亚至保亭方向18公里处"}
+{"subj": "雁荡山", "po": [{"pred": "area", "obj": "450平方公里"}, {"pred": "拼音", "obj": "yandangshan"}, {"pred": "特点", "obj": "芦苇茂密，结草为荡"}, {"pred": "name", "obj": "雁荡山"}, {"pred": "所在地", "obj": "中国东南温州市境和台州市南部"}]}
+{"grade": "AAAA级旅游景区", "subj": "雁南飞茶田度假村", "po": [{"pred": "酒店住宿", "obj": "围龙大酒店"}, {"pred": "name", "obj": "雁南飞茶田度假村"}, {"pred": "景区特产", "obj": "雁南飞金单丛乌龙茶"}]}
+{"grade": "国家AAAA级风景区", "subj": "雁栖湖", "po": [{"pred": "气候条件", "obj": "年平均气温11.7摄氏度"}, {"pred": "name", "obj": "雁栖湖"}, {"pred": "植被覆盖率", "obj": "植被覆盖率90%"}], "location": "北京郊区怀柔城北的燕山脚下"}
+{"subj": "杨过与小龙女", "po": [{"pred": "导演", "obj": "华山"}]}
+{"subj": "伊秉绶隶书五字横幅", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "黟山", "po": [{"pred": "现名", "obj": "黄山"}]}
+{"subj": "银狐洞", "po": [{"pred": "开发建设时间", "obj": "1990年"}, {"pred": "name", "obj": "银狐洞"}, {"pred": "主要游览内容", "obj": "银狐洞、地下河、洞府茶韵等"}], "location": "北京房山区佛子庄乡下英水村"}
+{"subj": "幽篁戴胜图", "po": [{"pred": "collect", "obj": "故宫博物院"}]}
+{"subj": "游庐山", "po": [{"pred": "name", "obj": "庐山"}]}
+{"subj": "圆明园遗址公园", "po": [{"pred": "built", "obj": "1709年"}, {"pred": "englishname", "obj": "The Old Summer Palace"}, {"pred": "name", "obj": "圆明园"}], "location": "北京市海淀区西北郊"}
+{"subj": "岳阳楼", "po": [{"pred": "name", "obj": "岳阳楼"}, {"pred": "nickname", "obj": "阅军楼、巴陵城楼"}], "location": "巴丘山下"}
+{"subj": "云居寺", "po": [{"pred": "area", "obj": "70000多平方米"}, {"pred": "始建时间", "obj": "隋末唐初（公元605—618年）"}, {"pred": "name", "obj": "云居寺"}], "location": "北京"}
+{"grade": "3A级", "subj": "云台山", "po": [{"pred": "海拔", "obj": "1066米"}, {"pred": "name", "obj": "施秉云台山"}, {"pred": "主峰", "obj": "团仑岩"}], "location": "贵州省施秉县城关镇、白垛乡"}
+{"subj": "云岫谷游猎自然风景区", "po": [{"pred": "野生动物", "obj": "狐狸、山鸡、野兔"}, {"pred": "娱乐设施", "obj": "狩猎场、飞碟射击"}, {"pred": "near", "obj": "雾灵山森林公园、司马台长城"}, {"pred": "name", "obj": "云岫谷游猎自然风景区"}], "location": "密云县新城子乡遥桥峪村"}
+{"subj": "张家界国家森林公园", "po": [{"pred": "最高峰", "obj": "斗蓬山1890米"}, {"pred": "荣誉", "obj": "《世界自然遗产名录》；"}, {"pred": "name", "obj": "张家界国家森林公园"}], "location": "张家界市"}
+{"subj": "谪龙说", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "溱湖", "po": [{"pred": "area", "obj": "26平方公里"}, {"pred": "票价", "obj": "80元/位"}, {"pred": "拼音", "obj": "qin hu"}, {"pred": "又名", "obj": "喜鹊湖"}, {"pred": "name", "obj": "溱湖"}], "location": "江苏中部"}
+{"subj": "中国人民抗日战争纪念雕塑园", "po": [{"pred": "奠基时间", "obj": "1995年7月7日"}, {"pred": "built", "obj": "2000年7月"}, {"pred": "wtime", "obj": "2000年8月16日"}, {"pred": "area", "obj": "20公顷"}, {"pred": "门票", "obj": "免费"}, {"pred": "主要景观", "obj": "中国人民抗日战争纪念碑"}, {"pred": "name", "obj": "中国人民抗日战争纪念雕塑园"}], "location": "北京丰台区卢沟桥宛平城内街101号"}
+{"subj": "周之冕百花图卷", "po": [{"pred": "collect", "obj": "北京故宫博物院"}]}
+{"subj": "诸上座草书卷", "po": [{"pred": "collect", "obj": "故宫博物院"}]}

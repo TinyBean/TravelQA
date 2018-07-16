@@ -1,0 +1,19 @@
+name 中文名 中文名称 公司名称 景点名称
+location 位置 所属地区 地理位置 地址 地点 所处地区
+built 兴建年代 竣工时间 成立时间 创建时间 建造年代
+grade 旅游等级 景区等级 等级 级别
+nickname 别名
+area 占地面积 面积
+pcase 植物种类
+englishname 外文名 外文名称
+type 类别 行政区类别
+collect 馆藏精品 收藏 馆藏
+acase 动物种类 动物
+form 体制 单位 公司性质 性质
+scale 规模
+ecase 主要设施
+mlocation 总部地点
+work 员工数
+product 主要产品
+wtime 开放时间
+near 周边景色
